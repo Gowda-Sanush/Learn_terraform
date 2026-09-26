@@ -1,9 +1,9 @@
 .terraform/
-.terraform.lock.hcl
 *.tfstate
 *.tfstate.*
+terraform.tfvars
+terra_user_accessKeys.csv
 
 vpc/.terraform
-vpc/.terraform.lock.hcl
 vpc/*.tfstate
 vpc/*.tfstate.*
